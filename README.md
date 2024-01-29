@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
-
 # Building Damage Assessment Model
 
 **Jump to: [Model](#model) | [Data Sources](#data-sources) | [Setup](#setup) | [Instructions to predict for any test image](#instructions-to-predict-for-any-test-image) | [Results](#results) |**
